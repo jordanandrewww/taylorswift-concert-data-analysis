@@ -1,4 +1,4 @@
-# week-2-data-analysis-mini-project
+# Taylor Swift Concert Data Analysis
 
 # CI Status Badge
 
